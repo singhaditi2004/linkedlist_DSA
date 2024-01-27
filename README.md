@@ -1,2 +1,2 @@
 # linkedlist_DSA
-Practicing DSA
+implementing linkedlist in java
